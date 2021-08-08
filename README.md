@@ -1,4 +1,5 @@
 # iMessage-react-redux
+[Hosting URL](https://i-message-clone-9536b.web.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
@@ -44,3 +45,23 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Firebase
+[Firebase](https://firebase.google.com/docs/hosting/).
+
+[Firebase](https://github.com/apps/firebase-cli)
+
+[Project Console](https://console.firebase.google.com/project/i-message-clone-9536b/overview).
+[Hosting URL](https://i-message-clone-9536b.web.app)
+
+## npx firebase login
+
+## npx firebase init
+
+## npx firebase hosting
+
+## build folder
+
+## index.html - yes
+
+## npx firebase deploy
